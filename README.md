@@ -1,5 +1,6 @@
 # B2B-sales-Funnel
 Summary
+
 **What I did:
 
 -Created a realistic B2B outreach dataset (1000 leads)
