@@ -1,0 +1,1001 @@
+lead_id,region,industry,company_size,outreach_channel,num_touches,email_opened,response_received,days_to_respond,meeting_booked,funnel_stage
+1,EMEA,Healthcare,Mid,Email,5,0,1,8,0,Engaged
+2,APAC,Finance,Small,Email,5,0,0,13,0,Prospect
+3,US,Retail,Mid,Linkedin,7,0,1,4,1,Meeting Booked
+4,UK,IT Services,Small,Email,5,0,0,9,0,Prospect
+5,GCC,Retail,Enterprise,Linkedin,8,1,1,9,1,Meeting Booked
+6,GCC,IT Services,Mid,Email,6,0,0,22,0,Prospect
+7,GCC,SaaS,Enterprise,Email,5,0,0,18,0,Prospect
+8,US,IT Services,Small,Linkedin,9,0,0,12,1,Meeting Booked
+9,UK,Healthcare,Enterprise,Email,2,1,0,10,0,Contacted
+10,US,Finance,Mid,Email,1,0,0,11,1,Meeting Booked
+11,GCC,SaaS,Small,Email,8,1,0,7,1,Meeting Booked
+12,APAC,IT Services,Small,Linkedin,3,0,0,9,0,Prospect
+13,US,Retail,Mid,Email,7,0,0,6,0,Prospect
+14,GCC,SaaS,Mid,Email,8,0,1,19,1,Meeting Booked
+15,GCC,SaaS,Enterprise,Email,6,0,0,16,1,Meeting Booked
+16,GCC,IT Services,Small,Email,9,0,0,15,0,Prospect
+17,EMEA,SaaS,Small,Linkedin,7,0,0,7,0,Prospect
+18,UK,Retail,Mid,Linkedin,5,1,0,16,0,Contacted
+19,EMEA,SaaS,Small,Email,8,1,0,5,1,Meeting Booked
+20,EMEA,Retail,Mid,Linkedin,2,1,0,16,0,Contacted
+21,UK,IT Services,Enterprise,Email,7,0,1,1,1,Meeting Booked
+22,GCC,Finance,Enterprise,Linkedin,4,0,1,19,1,Meeting Booked
+23,EMEA,SaaS,Enterprise,Linkedin,9,0,0,5,1,Meeting Booked
+24,EMEA,Finance,Mid,Email,1,1,0,7,0,Contacted
+25,UK,Retail,Small,Linkedin,7,1,0,19,0,Contacted
+26,US,SaaS,Mid,Linkedin,6,0,0,22,0,Prospect
+27,GCC,Healthcare,Mid,Email,8,0,0,5,0,Prospect
+28,UK,Finance,Enterprise,Email,5,0,0,29,0,Prospect
+29,UK,SaaS,Small,Email,1,0,0,17,0,Prospect
+30,GCC,Finance,Mid,Linkedin,1,0,0,26,1,Meeting Booked
+31,UK,SaaS,Small,Linkedin,9,0,0,22,0,Prospect
+32,GCC,IT Services,Mid,Linkedin,6,1,1,8,1,Meeting Booked
+33,GCC,Finance,Enterprise,Linkedin,5,0,0,29,1,Meeting Booked
+34,APAC,Healthcare,Mid,Linkedin,1,0,1,29,0,Engaged
+35,APAC,Healthcare,Small,Linkedin,6,1,1,1,1,Meeting Booked
+36,US,Retail,Enterprise,Linkedin,6,0,0,2,0,Prospect
+37,EMEA,SaaS,Mid,Email,3,0,0,15,0,Prospect
+38,GCC,Finance,Small,Email,8,0,0,20,1,Meeting Booked
+39,US,Retail,Small,Linkedin,1,0,1,28,0,Engaged
+40,EMEA,Finance,Small,Email,1,0,1,18,0,Engaged
+41,GCC,SaaS,Small,Linkedin,6,1,0,11,1,Meeting Booked
+42,UK,Healthcare,Enterprise,Email,1,0,0,25,1,Meeting Booked
+43,GCC,IT Services,Mid,Email,6,0,1,10,1,Meeting Booked
+44,APAC,Healthcare,Enterprise,Linkedin,1,1,0,24,0,Contacted
+45,EMEA,Retail,Small,Email,6,0,1,24,1,Meeting Booked
+46,US,IT Services,Small,Email,3,1,1,4,1,Meeting Booked
+47,EMEA,Retail,Mid,Email,8,1,0,5,0,Contacted
+48,UK,SaaS,Small,Linkedin,6,0,0,4,0,Prospect
+49,UK,IT Services,Mid,Email,1,1,0,13,0,Contacted
+50,GCC,Retail,Enterprise,Linkedin,5,0,0,25,0,Prospect
+51,APAC,SaaS,Mid,Email,8,1,0,13,0,Contacted
+52,US,Healthcare,Mid,Linkedin,3,0,1,18,0,Engaged
+53,APAC,SaaS,Small,Linkedin,6,1,1,29,1,Meeting Booked
+54,US,Finance,Small,Email,5,1,1,27,1,Meeting Booked
+55,UK,SaaS,Small,Email,6,0,0,24,0,Prospect
+56,APAC,SaaS,Mid,Email,1,0,1,2,1,Meeting Booked
+57,GCC,Finance,Small,Linkedin,7,1,0,16,1,Meeting Booked
+58,GCC,Retail,Small,Email,9,1,0,1,0,Contacted
+59,GCC,Retail,Mid,Email,2,0,0,26,1,Meeting Booked
+60,EMEA,SaaS,Small,Email,5,1,0,19,0,Contacted
+61,EMEA,Finance,Small,Email,4,0,1,9,1,Meeting Booked
+62,EMEA,Finance,Small,Email,6,0,0,28,0,Prospect
+63,US,Healthcare,Enterprise,Linkedin,6,0,0,3,1,Meeting Booked
+64,EMEA,Retail,Mid,Linkedin,2,0,0,25,0,Prospect
+65,EMEA,IT Services,Mid,Email,2,1,0,7,0,Contacted
+66,UK,Retail,Small,Email,4,0,0,29,0,Prospect
+67,GCC,Retail,Enterprise,Email,1,1,0,10,0,Contacted
+68,US,Healthcare,Mid,Linkedin,9,0,0,1,0,Prospect
+69,GCC,IT Services,Small,Linkedin,7,0,0,10,1,Meeting Booked
+70,APAC,Healthcare,Enterprise,Linkedin,7,0,1,21,0,Engaged
+71,US,IT Services,Small,Linkedin,3,0,0,9,1,Meeting Booked
+72,GCC,SaaS,Mid,Email,3,0,0,28,0,Prospect
+73,GCC,IT Services,Mid,Linkedin,1,0,0,15,0,Prospect
+74,US,Healthcare,Small,Linkedin,3,0,0,15,0,Prospect
+75,US,Retail,Enterprise,Email,3,0,0,3,0,Prospect
+76,US,IT Services,Mid,Linkedin,4,0,0,25,1,Meeting Booked
+77,US,IT Services,Mid,Email,4,0,1,5,1,Meeting Booked
+78,GCC,Finance,Small,Linkedin,3,1,0,9,0,Contacted
+79,EMEA,Retail,Small,Email,8,1,1,26,1,Meeting Booked
+80,GCC,SaaS,Small,Email,8,0,1,22,1,Meeting Booked
+81,US,Healthcare,Mid,Linkedin,1,0,0,9,0,Prospect
+82,UK,SaaS,Small,Email,7,0,0,23,0,Prospect
+83,EMEA,Retail,Mid,Email,2,1,0,7,0,Contacted
+84,GCC,IT Services,Mid,Email,1,0,1,24,1,Meeting Booked
+85,EMEA,IT Services,Small,Linkedin,3,0,1,23,0,Engaged
+86,EMEA,Retail,Mid,Email,4,0,0,12,0,Prospect
+87,US,IT Services,Small,Email,6,0,1,25,1,Meeting Booked
+88,UK,IT Services,Enterprise,Linkedin,5,0,0,27,0,Prospect
+89,US,IT Services,Mid,Linkedin,4,1,1,9,1,Meeting Booked
+90,UK,Healthcare,Small,Email,8,0,1,6,0,Engaged
+91,GCC,Healthcare,Small,Linkedin,4,0,0,23,0,Prospect
+92,US,Finance,Mid,Linkedin,2,0,0,2,0,Prospect
+93,US,SaaS,Mid,Linkedin,3,0,0,9,0,Prospect
+94,UK,Retail,Mid,Email,6,1,0,28,1,Meeting Booked
+95,US,Retail,Mid,Email,8,0,1,29,0,Engaged
+96,UK,Retail,Small,Email,8,1,0,17,0,Contacted
+97,UK,Finance,Small,Email,9,0,0,1,0,Prospect
+98,EMEA,Healthcare,Small,Email,7,0,0,19,0,Prospect
+99,GCC,Finance,Mid,Email,2,1,1,28,1,Meeting Booked
+100,GCC,Retail,Enterprise,Linkedin,8,0,0,6,0,Prospect
+101,GCC,SaaS,Mid,Email,7,1,0,5,0,Contacted
+102,UK,IT Services,Small,Email,8,0,0,2,0,Prospect
+103,EMEA,Healthcare,Mid,Linkedin,3,1,1,9,1,Meeting Booked
+104,UK,Healthcare,Enterprise,Email,7,0,1,29,0,Engaged
+105,APAC,Finance,Mid,Email,9,0,0,26,0,Prospect
+106,GCC,Healthcare,Enterprise,Linkedin,3,1,0,14,0,Contacted
+107,EMEA,Retail,Small,Email,6,1,0,4,1,Meeting Booked
+108,US,Retail,Small,Linkedin,2,1,0,4,0,Contacted
+109,GCC,Finance,Enterprise,Linkedin,2,1,0,21,0,Contacted
+110,GCC,Retail,Mid,Email,5,1,1,15,1,Meeting Booked
+111,EMEA,SaaS,Small,Linkedin,5,0,0,8,0,Prospect
+112,GCC,Finance,Mid,Email,7,0,1,26,0,Engaged
+113,APAC,SaaS,Enterprise,Email,2,0,0,4,1,Meeting Booked
+114,US,IT Services,Mid,Email,7,0,0,16,0,Prospect
+115,UK,SaaS,Mid,Email,5,0,0,21,0,Prospect
+116,US,IT Services,Small,Linkedin,6,0,0,28,0,Prospect
+117,US,IT Services,Mid,Email,8,0,0,4,1,Meeting Booked
+118,GCC,SaaS,Mid,Email,4,1,0,16,0,Contacted
+119,US,Finance,Enterprise,Email,7,0,0,22,0,Prospect
+120,UK,Retail,Enterprise,Email,6,0,0,12,0,Prospect
+121,US,Retail,Enterprise,Email,2,0,0,16,0,Prospect
+122,US,IT Services,Small,Email,8,1,1,19,1,Meeting Booked
+123,EMEA,IT Services,Mid,Linkedin,9,1,0,8,0,Contacted
+124,GCC,Finance,Mid,Email,5,0,1,6,0,Engaged
+125,GCC,Healthcare,Mid,Email,4,0,0,10,0,Prospect
+126,EMEA,SaaS,Mid,Email,6,0,1,5,0,Engaged
+127,US,IT Services,Enterprise,Email,8,0,0,29,0,Prospect
+128,US,Retail,Mid,Linkedin,3,0,1,18,0,Engaged
+129,GCC,Finance,Mid,Email,1,0,0,10,1,Meeting Booked
+130,UK,SaaS,Small,Email,4,0,0,10,0,Prospect
+131,EMEA,Finance,Small,Email,4,0,0,7,0,Prospect
+132,GCC,SaaS,Mid,Linkedin,1,1,0,18,1,Meeting Booked
+133,GCC,SaaS,Mid,Linkedin,9,1,0,1,0,Contacted
+134,EMEA,IT Services,Small,Email,3,0,0,7,0,Prospect
+135,APAC,Finance,Small,Linkedin,5,0,0,21,0,Prospect
+136,EMEA,Finance,Mid,Linkedin,6,0,1,1,1,Meeting Booked
+137,UK,Retail,Small,Linkedin,8,0,0,15,0,Prospect
+138,US,Retail,Small,Linkedin,6,1,0,4,1,Meeting Booked
+139,EMEA,IT Services,Small,Email,3,0,0,28,0,Prospect
+140,APAC,IT Services,Small,Email,6,1,0,29,0,Contacted
+141,APAC,Healthcare,Small,Email,1,0,0,20,0,Prospect
+142,EMEA,Retail,Small,Email,4,1,0,10,1,Meeting Booked
+143,UK,SaaS,Mid,Linkedin,6,0,1,23,1,Meeting Booked
+144,EMEA,Finance,Enterprise,Email,7,1,1,9,1,Meeting Booked
+145,EMEA,IT Services,Mid,Email,3,0,1,2,1,Meeting Booked
+146,GCC,Finance,Mid,Linkedin,9,0,0,28,1,Meeting Booked
+147,UK,Finance,Small,Email,7,0,1,14,1,Meeting Booked
+148,UK,Healthcare,Small,Email,1,0,0,16,0,Prospect
+149,GCC,Retail,Mid,Email,2,1,0,1,1,Meeting Booked
+150,EMEA,IT Services,Small,Email,1,1,0,2,0,Contacted
+151,APAC,Finance,Mid,Linkedin,9,1,0,7,1,Meeting Booked
+152,GCC,IT Services,Mid,Email,9,0,0,29,0,Prospect
+153,GCC,SaaS,Mid,Email,7,1,0,10,0,Contacted
+154,UK,Healthcare,Small,Email,3,0,0,22,0,Prospect
+155,APAC,SaaS,Small,Email,5,0,0,20,0,Prospect
+156,GCC,IT Services,Mid,Linkedin,4,0,0,1,1,Meeting Booked
+157,US,IT Services,Small,Email,7,0,0,13,0,Prospect
+158,US,Retail,Mid,Email,9,0,0,1,1,Meeting Booked
+159,GCC,Finance,Mid,Linkedin,2,0,0,5,0,Prospect
+160,US,Finance,Enterprise,Linkedin,8,0,1,16,1,Meeting Booked
+161,EMEA,SaaS,Small,Email,9,1,0,15,0,Contacted
+162,UK,Healthcare,Enterprise,Email,9,0,0,17,0,Prospect
+163,UK,Finance,Mid,Linkedin,7,0,0,28,0,Prospect
+164,UK,Retail,Small,Linkedin,9,0,0,23,0,Prospect
+165,GCC,SaaS,Small,Email,9,0,1,16,1,Meeting Booked
+166,US,SaaS,Mid,Linkedin,3,0,0,13,0,Prospect
+167,EMEA,Retail,Small,Email,4,0,0,11,0,Prospect
+168,GCC,Healthcare,Small,Email,2,0,1,17,0,Engaged
+169,GCC,Retail,Small,Email,3,1,0,17,0,Contacted
+170,UK,Healthcare,Enterprise,Email,5,0,0,2,1,Meeting Booked
+171,US,Retail,Mid,Linkedin,5,1,0,13,0,Contacted
+172,GCC,Retail,Mid,Email,6,0,0,14,0,Prospect
+173,UK,IT Services,Small,Email,7,0,0,11,1,Meeting Booked
+174,GCC,SaaS,Small,Linkedin,7,1,0,28,0,Contacted
+175,UK,Retail,Mid,Email,1,0,1,10,0,Engaged
+176,GCC,Retail,Mid,Email,2,0,0,3,0,Prospect
+177,US,Finance,Small,Email,9,1,0,29,0,Contacted
+178,EMEA,SaaS,Mid,Email,2,0,0,27,0,Prospect
+179,APAC,Finance,Enterprise,Email,6,1,1,17,1,Meeting Booked
+180,GCC,SaaS,Mid,Linkedin,1,0,1,15,0,Engaged
+181,EMEA,Finance,Mid,Email,3,1,0,9,0,Contacted
+182,GCC,Retail,Enterprise,Email,2,0,0,10,0,Prospect
+183,APAC,Retail,Small,Linkedin,3,0,0,8,0,Prospect
+184,US,IT Services,Mid,Linkedin,5,0,0,21,0,Prospect
+185,EMEA,Finance,Enterprise,Email,6,0,0,13,1,Meeting Booked
+186,US,Healthcare,Small,Email,9,0,0,27,0,Prospect
+187,US,IT Services,Mid,Email,4,0,0,18,0,Prospect
+188,UK,Finance,Mid,Email,7,0,1,5,1,Meeting Booked
+189,UK,Finance,Mid,Email,6,0,0,6,0,Prospect
+190,GCC,IT Services,Mid,Email,2,0,1,17,1,Meeting Booked
+191,GCC,Retail,Enterprise,Linkedin,8,1,0,11,1,Meeting Booked
+192,US,Finance,Mid,Email,7,0,0,20,0,Prospect
+193,APAC,Retail,Small,Linkedin,7,0,0,16,0,Prospect
+194,UK,IT Services,Enterprise,Email,8,0,0,9,0,Prospect
+195,EMEA,Retail,Small,Linkedin,1,0,0,2,0,Prospect
+196,EMEA,SaaS,Small,Linkedin,1,1,0,5,0,Contacted
+197,US,Healthcare,Mid,Linkedin,8,0,0,1,0,Prospect
+198,US,Finance,Mid,Email,4,1,0,4,0,Contacted
+199,US,Healthcare,Mid,Email,5,0,1,4,0,Engaged
+200,US,Retail,Enterprise,Email,8,1,0,22,1,Meeting Booked
+201,UK,Finance,Mid,Linkedin,5,0,0,26,0,Prospect
+202,GCC,Retail,Mid,Email,4,1,0,25,0,Contacted
+203,GCC,SaaS,Small,Email,6,0,1,3,1,Meeting Booked
+204,US,IT Services,Enterprise,Email,5,0,0,9,0,Prospect
+205,UK,Finance,Enterprise,Email,7,0,0,22,0,Prospect
+206,GCC,SaaS,Mid,Email,7,0,0,23,0,Prospect
+207,GCC,SaaS,Small,Email,4,1,0,12,1,Meeting Booked
+208,US,Finance,Small,Linkedin,5,0,1,10,0,Engaged
+209,GCC,Retail,Small,Linkedin,3,0,0,2,0,Prospect
+210,GCC,SaaS,Small,Linkedin,4,1,0,11,0,Contacted
+211,UK,Healthcare,Small,Email,4,0,0,10,0,Prospect
+212,US,SaaS,Enterprise,Linkedin,3,1,0,22,0,Contacted
+213,US,Retail,Mid,Linkedin,5,1,1,6,1,Meeting Booked
+214,GCC,Retail,Small,Linkedin,5,0,0,18,0,Prospect
+215,US,Healthcare,Small,Linkedin,7,1,0,2,0,Contacted
+216,GCC,SaaS,Small,Email,4,0,0,2,0,Prospect
+217,EMEA,Retail,Small,Linkedin,4,0,0,10,0,Prospect
+218,US,Finance,Small,Email,9,0,1,16,0,Engaged
+219,UK,IT Services,Small,Email,6,0,0,12,1,Meeting Booked
+220,US,IT Services,Mid,Email,4,1,0,1,0,Contacted
+221,US,IT Services,Enterprise,Linkedin,2,1,1,21,1,Meeting Booked
+222,UK,SaaS,Small,Linkedin,6,0,0,8,0,Prospect
+223,GCC,Healthcare,Mid,Linkedin,2,0,0,16,0,Prospect
+224,EMEA,Retail,Enterprise,Linkedin,5,1,0,18,0,Contacted
+225,EMEA,Finance,Small,Email,6,0,1,13,0,Engaged
+226,GCC,Finance,Small,Email,4,0,0,15,0,Prospect
+227,APAC,SaaS,Enterprise,Email,3,0,0,21,1,Meeting Booked
+228,EMEA,IT Services,Small,Email,7,1,0,12,1,Meeting Booked
+229,US,SaaS,Mid,Email,2,0,0,8,0,Prospect
+230,UK,Healthcare,Mid,Email,6,1,0,10,0,Contacted
+231,US,Healthcare,Small,Email,4,1,0,14,0,Contacted
+232,UK,Retail,Small,Linkedin,6,0,0,5,0,Prospect
+233,UK,Retail,Mid,Email,4,0,0,18,1,Meeting Booked
+234,UK,Healthcare,Small,Linkedin,4,1,0,19,0,Contacted
+235,GCC,Healthcare,Small,Linkedin,4,0,1,15,1,Meeting Booked
+236,US,Healthcare,Mid,Email,9,1,1,6,0,Engaged
+237,EMEA,SaaS,Mid,Email,7,1,0,27,1,Meeting Booked
+238,GCC,Healthcare,Small,Email,3,0,0,11,0,Prospect
+239,UK,Finance,Enterprise,Email,3,1,0,21,0,Contacted
+240,GCC,IT Services,Small,Linkedin,6,1,0,11,0,Contacted
+241,APAC,Healthcare,Enterprise,Email,6,1,1,20,1,Meeting Booked
+242,APAC,IT Services,Mid,Email,4,0,0,20,0,Prospect
+243,APAC,SaaS,Mid,Email,9,0,0,21,1,Meeting Booked
+244,EMEA,IT Services,Mid,Linkedin,4,0,1,18,0,Engaged
+245,GCC,SaaS,Enterprise,Linkedin,9,1,0,25,0,Contacted
+246,APAC,Finance,Small,Linkedin,4,0,0,18,0,Prospect
+247,EMEA,SaaS,Mid,Email,2,1,0,10,1,Meeting Booked
+248,APAC,SaaS,Small,Linkedin,2,0,0,2,0,Prospect
+249,APAC,Retail,Small,Linkedin,5,0,0,26,1,Meeting Booked
+250,US,Healthcare,Small,Linkedin,4,0,1,9,1,Meeting Booked
+251,EMEA,Healthcare,Enterprise,Linkedin,7,1,1,14,1,Meeting Booked
+252,EMEA,Finance,Enterprise,Email,5,0,0,19,0,Prospect
+253,US,Finance,Small,Linkedin,6,0,1,10,1,Meeting Booked
+254,EMEA,Healthcare,Small,Linkedin,4,0,0,23,0,Prospect
+255,GCC,Retail,Mid,Email,2,1,1,4,0,Engaged
+256,UK,Healthcare,Mid,Email,9,0,0,29,0,Prospect
+257,APAC,Retail,Small,Linkedin,7,0,1,29,1,Meeting Booked
+258,US,Finance,Mid,Email,4,1,1,6,1,Meeting Booked
+259,UK,IT Services,Mid,Email,3,1,0,14,1,Meeting Booked
+260,GCC,Finance,Enterprise,Linkedin,3,1,1,4,1,Meeting Booked
+261,UK,Finance,Small,Email,9,0,1,26,0,Engaged
+262,APAC,SaaS,Mid,Email,5,0,1,15,1,Meeting Booked
+263,GCC,SaaS,Mid,Email,3,1,0,16,1,Meeting Booked
+264,UK,SaaS,Mid,Email,5,0,1,7,1,Meeting Booked
+265,US,SaaS,Mid,Email,2,1,1,17,1,Meeting Booked
+266,US,Retail,Mid,Email,4,0,0,19,0,Prospect
+267,US,Healthcare,Small,Linkedin,2,0,1,29,1,Meeting Booked
+268,US,IT Services,Enterprise,Email,2,0,0,19,0,Prospect
+269,EMEA,Finance,Mid,Linkedin,8,0,0,17,0,Prospect
+270,EMEA,Retail,Small,Linkedin,1,0,0,6,0,Prospect
+271,US,IT Services,Mid,Email,7,0,0,29,0,Prospect
+272,US,Retail,Small,Linkedin,5,1,0,11,0,Contacted
+273,US,Retail,Small,Email,8,0,0,16,0,Prospect
+274,APAC,Finance,Enterprise,Email,1,1,1,25,1,Meeting Booked
+275,UK,Healthcare,Mid,Email,7,1,0,8,0,Contacted
+276,UK,SaaS,Mid,Linkedin,5,0,0,11,0,Prospect
+277,US,Healthcare,Small,Email,4,0,0,7,0,Prospect
+278,UK,Finance,Mid,Email,7,1,0,26,0,Contacted
+279,US,Finance,Small,Linkedin,2,0,1,24,1,Meeting Booked
+280,US,Finance,Small,Email,1,1,0,22,1,Meeting Booked
+281,US,IT Services,Enterprise,Email,1,1,1,25,1,Meeting Booked
+282,EMEA,Healthcare,Mid,Email,1,1,0,19,0,Contacted
+283,EMEA,Healthcare,Mid,Linkedin,5,0,0,26,0,Prospect
+284,GCC,Retail,Small,Linkedin,7,0,0,10,0,Prospect
+285,UK,Retail,Enterprise,Email,2,0,0,9,0,Prospect
+286,GCC,Retail,Mid,Email,8,0,0,4,0,Prospect
+287,UK,Finance,Mid,Email,4,1,0,23,1,Meeting Booked
+288,UK,Healthcare,Mid,Linkedin,3,0,0,15,0,Prospect
+289,EMEA,Finance,Small,Email,8,0,1,13,0,Engaged
+290,UK,IT Services,Small,Email,2,1,0,25,0,Contacted
+291,GCC,Retail,Mid,Email,3,0,0,2,0,Prospect
+292,GCC,Finance,Small,Email,3,0,0,2,0,Prospect
+293,US,Finance,Small,Email,1,0,0,16,0,Prospect
+294,EMEA,IT Services,Enterprise,Email,6,1,1,9,1,Meeting Booked
+295,GCC,SaaS,Mid,Email,2,0,0,28,0,Prospect
+296,UK,Healthcare,Mid,Linkedin,1,1,0,13,1,Meeting Booked
+297,US,SaaS,Mid,Email,2,0,1,3,1,Meeting Booked
+298,GCC,Retail,Mid,Linkedin,6,1,0,9,1,Meeting Booked
+299,UK,Finance,Small,Email,4,1,0,13,0,Contacted
+300,GCC,IT Services,Small,Linkedin,6,0,0,21,0,Prospect
+301,GCC,IT Services,Small,Linkedin,9,0,0,22,1,Meeting Booked
+302,UK,Healthcare,Small,Email,8,0,1,2,0,Engaged
+303,UK,SaaS,Mid,Email,1,1,1,8,0,Engaged
+304,UK,Healthcare,Small,Linkedin,8,0,1,27,1,Meeting Booked
+305,US,Finance,Mid,Email,9,0,0,9,0,Prospect
+306,APAC,Healthcare,Small,Linkedin,6,0,0,16,0,Prospect
+307,UK,IT Services,Small,Email,5,0,1,2,1,Meeting Booked
+308,EMEA,IT Services,Mid,Linkedin,6,0,0,6,1,Meeting Booked
+309,US,Retail,Small,Email,6,0,0,22,0,Prospect
+310,EMEA,Retail,Small,Linkedin,9,0,0,8,0,Prospect
+311,EMEA,Finance,Small,Linkedin,4,1,0,26,0,Contacted
+312,GCC,SaaS,Small,Linkedin,2,1,0,28,0,Contacted
+313,GCC,Healthcare,Mid,Email,9,0,1,5,1,Meeting Booked
+314,APAC,Finance,Small,Linkedin,2,1,1,9,1,Meeting Booked
+315,US,Retail,Small,Email,9,1,0,1,0,Contacted
+316,US,Healthcare,Mid,Linkedin,2,1,0,9,0,Contacted
+317,EMEA,Retail,Small,Email,8,0,0,10,0,Prospect
+318,GCC,Healthcare,Enterprise,Linkedin,9,0,1,23,0,Engaged
+319,GCC,SaaS,Mid,Email,9,0,0,4,1,Meeting Booked
+320,EMEA,Finance,Mid,Linkedin,9,1,0,3,0,Contacted
+321,UK,Healthcare,Mid,Linkedin,2,0,0,10,0,Prospect
+322,US,IT Services,Small,Linkedin,4,0,0,15,0,Prospect
+323,US,IT Services,Mid,Email,7,0,0,11,0,Prospect
+324,EMEA,Healthcare,Small,Email,2,0,1,14,0,Engaged
+325,APAC,Healthcare,Enterprise,Linkedin,1,0,0,6,0,Prospect
+326,US,Healthcare,Small,Email,3,0,0,12,1,Meeting Booked
+327,UK,IT Services,Mid,Email,4,0,0,13,0,Prospect
+328,UK,IT Services,Mid,Linkedin,8,0,0,17,1,Meeting Booked
+329,EMEA,Healthcare,Small,Linkedin,6,1,1,16,1,Meeting Booked
+330,GCC,Retail,Small,Email,2,1,0,3,0,Contacted
+331,EMEA,Retail,Mid,Linkedin,9,1,1,2,1,Meeting Booked
+332,US,SaaS,Enterprise,Linkedin,2,1,0,11,0,Contacted
+333,GCC,Finance,Small,Email,5,0,0,29,0,Prospect
+334,GCC,Retail,Mid,Linkedin,4,0,0,9,0,Prospect
+335,GCC,IT Services,Enterprise,Email,7,1,0,3,1,Meeting Booked
+336,GCC,Retail,Enterprise,Email,8,0,0,29,0,Prospect
+337,US,SaaS,Small,Email,5,0,1,18,1,Meeting Booked
+338,US,SaaS,Mid,Email,5,0,0,20,0,Prospect
+339,UK,Finance,Small,Linkedin,2,0,0,15,0,Prospect
+340,GCC,Retail,Enterprise,Email,8,0,1,14,1,Meeting Booked
+341,UK,IT Services,Mid,Email,2,0,1,2,1,Meeting Booked
+342,UK,IT Services,Small,Email,6,0,0,17,1,Meeting Booked
+343,GCC,Healthcare,Mid,Email,8,1,1,22,1,Meeting Booked
+344,EMEA,IT Services,Small,Email,6,0,0,26,0,Prospect
+345,EMEA,Finance,Enterprise,Email,4,0,0,8,1,Meeting Booked
+346,UK,Finance,Enterprise,Email,4,0,1,10,0,Engaged
+347,UK,IT Services,Mid,Linkedin,6,1,0,26,1,Meeting Booked
+348,GCC,IT Services,Small,Email,4,0,0,18,0,Prospect
+349,EMEA,Healthcare,Mid,Email,8,0,0,25,0,Prospect
+350,UK,IT Services,Small,Email,9,0,1,29,1,Meeting Booked
+351,UK,Healthcare,Small,Linkedin,1,0,1,19,0,Engaged
+352,US,Healthcare,Enterprise,Email,4,1,0,8,1,Meeting Booked
+353,US,IT Services,Small,Email,4,1,0,28,1,Meeting Booked
+354,GCC,SaaS,Small,Email,2,0,0,8,0,Prospect
+355,GCC,SaaS,Enterprise,Linkedin,6,0,0,3,0,Prospect
+356,UK,Healthcare,Small,Email,3,1,0,3,0,Contacted
+357,GCC,IT Services,Small,Linkedin,7,0,1,12,1,Meeting Booked
+358,UK,SaaS,Enterprise,Email,5,0,0,22,1,Meeting Booked
+359,APAC,IT Services,Small,Email,4,0,0,17,1,Meeting Booked
+360,UK,IT Services,Mid,Linkedin,5,1,0,4,1,Meeting Booked
+361,EMEA,IT Services,Enterprise,Email,8,0,0,17,0,Prospect
+362,UK,Retail,Enterprise,Linkedin,3,0,1,14,1,Meeting Booked
+363,UK,IT Services,Mid,Linkedin,7,1,0,19,0,Contacted
+364,UK,Retail,Small,Linkedin,6,0,0,9,0,Prospect
+365,APAC,Healthcare,Small,Email,1,0,0,21,0,Prospect
+366,EMEA,SaaS,Enterprise,Linkedin,7,1,0,12,1,Meeting Booked
+367,APAC,SaaS,Enterprise,Email,7,0,0,5,1,Meeting Booked
+368,APAC,SaaS,Mid,Linkedin,1,0,0,11,0,Prospect
+369,GCC,SaaS,Small,Linkedin,9,0,0,20,0,Prospect
+370,GCC,SaaS,Small,Linkedin,6,0,0,3,0,Prospect
+371,GCC,SaaS,Small,Email,2,0,0,21,0,Prospect
+372,GCC,SaaS,Mid,Email,5,0,0,15,1,Meeting Booked
+373,GCC,Healthcare,Mid,Email,4,0,1,14,1,Meeting Booked
+374,US,IT Services,Enterprise,Linkedin,7,1,0,11,0,Contacted
+375,GCC,Finance,Mid,Email,8,0,0,20,0,Prospect
+376,EMEA,Retail,Small,Email,1,0,0,8,0,Prospect
+377,US,Finance,Mid,Linkedin,5,0,0,4,0,Prospect
+378,GCC,Finance,Mid,Email,3,1,1,27,1,Meeting Booked
+379,US,IT Services,Mid,Email,1,0,0,12,0,Prospect
+380,EMEA,IT Services,Mid,Email,3,0,0,8,0,Prospect
+381,GCC,IT Services,Enterprise,Email,6,0,0,6,1,Meeting Booked
+382,US,SaaS,Enterprise,Email,7,0,0,15,0,Prospect
+383,UK,Healthcare,Small,Email,8,0,1,12,0,Engaged
+384,US,SaaS,Small,Email,4,1,0,16,0,Contacted
+385,US,Healthcare,Mid,Email,3,0,0,16,0,Prospect
+386,US,Healthcare,Small,Linkedin,5,0,0,27,0,Prospect
+387,EMEA,Finance,Small,Email,9,0,0,21,0,Prospect
+388,GCC,Finance,Small,Email,6,1,0,20,0,Contacted
+389,US,Healthcare,Mid,Linkedin,9,0,1,20,1,Meeting Booked
+390,US,Healthcare,Small,Email,6,0,0,28,0,Prospect
+391,APAC,SaaS,Mid,Email,2,0,1,4,1,Meeting Booked
+392,EMEA,SaaS,Enterprise,Linkedin,5,0,0,11,0,Prospect
+393,EMEA,Finance,Small,Linkedin,9,0,0,13,0,Prospect
+394,US,IT Services,Small,Linkedin,8,0,0,29,1,Meeting Booked
+395,EMEA,Healthcare,Small,Linkedin,7,0,1,9,0,Engaged
+396,APAC,SaaS,Enterprise,Linkedin,1,0,0,4,0,Prospect
+397,US,Finance,Small,Email,4,0,0,12,0,Prospect
+398,EMEA,SaaS,Small,Linkedin,7,0,0,9,0,Prospect
+399,US,Healthcare,Small,Email,7,0,0,13,0,Prospect
+400,US,Healthcare,Mid,Linkedin,6,1,0,16,0,Contacted
+401,GCC,Retail,Mid,Email,8,1,1,26,1,Meeting Booked
+402,APAC,IT Services,Mid,Email,6,1,1,6,1,Meeting Booked
+403,UK,Retail,Enterprise,Email,3,1,0,10,0,Contacted
+404,US,Finance,Small,Linkedin,4,0,1,13,0,Engaged
+405,EMEA,SaaS,Enterprise,Email,3,1,0,7,1,Meeting Booked
+406,US,Finance,Small,Linkedin,1,0,0,28,0,Prospect
+407,EMEA,Healthcare,Enterprise,Linkedin,5,0,0,26,0,Prospect
+408,GCC,Retail,Mid,Email,1,0,0,19,0,Prospect
+409,APAC,Retail,Enterprise,Linkedin,1,0,1,24,1,Meeting Booked
+410,GCC,Retail,Small,Linkedin,2,1,0,19,0,Contacted
+411,EMEA,Finance,Small,Linkedin,4,0,0,17,0,Prospect
+412,APAC,Healthcare,Small,Email,6,0,0,13,0,Prospect
+413,APAC,SaaS,Small,Email,8,1,0,13,1,Meeting Booked
+414,UK,SaaS,Small,Email,3,0,0,26,0,Prospect
+415,UK,Finance,Small,Email,1,0,1,28,1,Meeting Booked
+416,EMEA,Retail,Small,Linkedin,3,1,1,21,0,Engaged
+417,EMEA,IT Services,Mid,Email,3,0,1,2,1,Meeting Booked
+418,EMEA,Finance,Enterprise,Linkedin,5,0,0,10,0,Prospect
+419,US,Finance,Mid,Email,4,0,0,22,0,Prospect
+420,US,Healthcare,Small,Email,4,0,0,13,0,Prospect
+421,US,SaaS,Mid,Linkedin,9,1,0,26,0,Contacted
+422,US,Finance,Small,Linkedin,7,0,0,9,0,Prospect
+423,GCC,Finance,Enterprise,Email,4,0,1,1,0,Engaged
+424,UK,Retail,Small,Email,3,0,0,14,0,Prospect
+425,GCC,Retail,Mid,Email,6,0,0,29,0,Prospect
+426,UK,IT Services,Enterprise,Email,3,1,0,16,1,Meeting Booked
+427,EMEA,Healthcare,Enterprise,Email,6,0,0,20,0,Prospect
+428,US,IT Services,Mid,Email,9,0,0,15,0,Prospect
+429,EMEA,Retail,Enterprise,Email,6,0,1,1,0,Engaged
+430,GCC,SaaS,Enterprise,Linkedin,4,1,0,17,1,Meeting Booked
+431,GCC,Retail,Mid,Email,5,1,1,24,0,Engaged
+432,US,Healthcare,Mid,Email,6,0,0,13,0,Prospect
+433,UK,Retail,Mid,Email,3,0,0,27,0,Prospect
+434,GCC,Healthcare,Mid,Linkedin,8,0,0,15,0,Prospect
+435,GCC,Healthcare,Mid,Linkedin,4,1,1,16,0,Engaged
+436,US,Healthcare,Mid,Email,8,0,1,16,0,Engaged
+437,GCC,Healthcare,Small,Linkedin,3,1,0,2,0,Contacted
+438,US,Healthcare,Small,Email,7,0,0,17,0,Prospect
+439,US,SaaS,Small,Email,9,1,0,11,0,Contacted
+440,GCC,IT Services,Small,Email,4,0,0,8,1,Meeting Booked
+441,GCC,Finance,Small,Email,8,0,1,20,0,Engaged
+442,APAC,IT Services,Mid,Linkedin,3,0,0,3,0,Prospect
+443,EMEA,Healthcare,Small,Linkedin,7,0,0,29,0,Prospect
+444,EMEA,SaaS,Enterprise,Email,3,1,0,12,0,Contacted
+445,US,Retail,Small,Linkedin,7,1,0,20,1,Meeting Booked
+446,APAC,SaaS,Small,Email,6,1,0,16,0,Contacted
+447,APAC,Healthcare,Mid,Email,2,0,0,14,0,Prospect
+448,US,SaaS,Mid,Email,3,0,0,16,0,Prospect
+449,EMEA,SaaS,Small,Email,6,1,0,27,0,Contacted
+450,GCC,Healthcare,Enterprise,Email,4,0,0,21,0,Prospect
+451,US,SaaS,Enterprise,Email,6,0,1,17,1,Meeting Booked
+452,UK,Finance,Small,Email,1,0,0,11,0,Prospect
+453,EMEA,Finance,Small,Email,1,0,0,17,0,Prospect
+454,APAC,SaaS,Enterprise,Linkedin,3,0,0,19,0,Prospect
+455,GCC,Retail,Mid,Email,8,0,0,22,0,Prospect
+456,UK,Healthcare,Mid,Linkedin,8,0,0,1,0,Prospect
+457,GCC,Finance,Enterprise,Email,4,1,0,27,0,Contacted
+458,UK,Retail,Small,Linkedin,6,0,0,12,0,Prospect
+459,GCC,SaaS,Mid,Linkedin,8,0,1,15,1,Meeting Booked
+460,GCC,Retail,Small,Linkedin,7,0,0,18,1,Meeting Booked
+461,GCC,IT Services,Mid,Email,7,1,0,28,1,Meeting Booked
+462,UK,Finance,Mid,Linkedin,4,0,0,23,0,Prospect
+463,US,SaaS,Mid,Email,9,0,0,14,1,Meeting Booked
+464,UK,Healthcare,Small,Email,6,0,0,1,0,Prospect
+465,APAC,SaaS,Small,Email,3,0,1,13,0,Engaged
+466,EMEA,Healthcare,Mid,Email,5,0,0,15,0,Prospect
+467,EMEA,SaaS,Mid,Email,5,1,0,7,0,Contacted
+468,US,Retail,Mid,Linkedin,5,1,0,15,0,Contacted
+469,GCC,Retail,Small,Linkedin,8,0,0,20,0,Prospect
+470,APAC,Retail,Enterprise,Email,9,0,0,10,0,Prospect
+471,GCC,IT Services,Small,Linkedin,9,1,0,14,0,Contacted
+472,APAC,Healthcare,Enterprise,Email,6,0,0,6,0,Prospect
+473,GCC,Retail,Small,Linkedin,6,1,0,14,0,Contacted
+474,US,IT Services,Mid,Email,9,0,0,24,0,Prospect
+475,UK,Healthcare,Small,Email,4,1,1,25,1,Meeting Booked
+476,APAC,SaaS,Enterprise,Linkedin,6,1,0,22,1,Meeting Booked
+477,GCC,IT Services,Mid,Linkedin,4,1,1,12,1,Meeting Booked
+478,UK,Finance,Small,Linkedin,1,1,1,11,0,Engaged
+479,APAC,IT Services,Small,Linkedin,7,0,0,29,0,Prospect
+480,UK,IT Services,Small,Linkedin,6,1,0,25,0,Contacted
+481,UK,Healthcare,Small,Linkedin,9,0,0,20,0,Prospect
+482,US,SaaS,Enterprise,Linkedin,7,0,0,22,1,Meeting Booked
+483,UK,Finance,Mid,Linkedin,7,1,0,24,0,Contacted
+484,UK,Retail,Mid,Email,2,1,1,25,1,Meeting Booked
+485,UK,Retail,Mid,Linkedin,9,1,1,19,0,Engaged
+486,APAC,IT Services,Mid,Email,9,0,0,2,0,Prospect
+487,GCC,Healthcare,Small,Linkedin,6,1,0,22,0,Contacted
+488,EMEA,Healthcare,Small,Linkedin,3,1,0,20,0,Contacted
+489,APAC,Retail,Mid,Linkedin,1,0,1,1,0,Engaged
+490,US,Finance,Enterprise,Linkedin,4,0,0,8,0,Prospect
+491,UK,SaaS,Small,Linkedin,3,0,0,25,0,Prospect
+492,UK,Finance,Small,Email,1,0,0,14,0,Prospect
+493,EMEA,SaaS,Mid,Linkedin,3,1,0,9,1,Meeting Booked
+494,GCC,Retail,Enterprise,Email,4,0,1,2,1,Meeting Booked
+495,UK,SaaS,Small,Email,8,1,0,25,1,Meeting Booked
+496,EMEA,Healthcare,Mid,Email,9,1,0,23,0,Contacted
+497,UK,IT Services,Enterprise,Email,3,0,1,5,1,Meeting Booked
+498,GCC,IT Services,Small,Email,6,1,0,23,0,Contacted
+499,APAC,Retail,Small,Linkedin,5,0,0,29,0,Prospect
+500,APAC,Healthcare,Mid,Email,6,1,0,25,0,Contacted
+501,US,Finance,Enterprise,Email,4,0,0,8,0,Prospect
+502,UK,Healthcare,Small,Email,6,1,0,16,0,Contacted
+503,EMEA,IT Services,Mid,Email,7,0,0,22,0,Prospect
+504,US,IT Services,Mid,Linkedin,9,0,0,16,0,Prospect
+505,US,Healthcare,Mid,Email,7,1,0,13,1,Meeting Booked
+506,GCC,Healthcare,Mid,Email,6,0,1,20,1,Meeting Booked
+507,APAC,IT Services,Mid,Email,1,0,1,29,1,Meeting Booked
+508,US,Finance,Mid,Email,2,0,0,15,0,Prospect
+509,APAC,Retail,Mid,Email,1,1,0,1,0,Contacted
+510,US,Retail,Mid,Email,9,0,0,22,0,Prospect
+511,UK,Healthcare,Mid,Linkedin,9,0,0,3,0,Prospect
+512,EMEA,Retail,Enterprise,Linkedin,7,0,1,6,1,Meeting Booked
+513,APAC,IT Services,Small,Email,2,0,0,22,0,Prospect
+514,US,IT Services,Enterprise,Linkedin,6,0,0,14,0,Prospect
+515,GCC,Healthcare,Enterprise,Email,4,0,0,4,1,Meeting Booked
+516,GCC,Healthcare,Small,Email,1,0,0,18,0,Prospect
+517,EMEA,Healthcare,Mid,Linkedin,1,0,0,15,0,Prospect
+518,US,Finance,Mid,Email,5,0,0,9,0,Prospect
+519,APAC,Retail,Small,Linkedin,2,1,1,18,0,Engaged
+520,GCC,Healthcare,Small,Email,4,0,1,3,1,Meeting Booked
+521,UK,SaaS,Small,Email,1,0,0,10,0,Prospect
+522,EMEA,SaaS,Small,Email,4,1,0,17,0,Contacted
+523,APAC,IT Services,Enterprise,Linkedin,6,0,1,7,0,Engaged
+524,US,Retail,Small,Linkedin,4,1,0,15,0,Contacted
+525,US,Healthcare,Enterprise,Linkedin,1,0,0,1,1,Meeting Booked
+526,UK,SaaS,Mid,Email,7,0,0,27,0,Prospect
+527,EMEA,Retail,Enterprise,Email,2,0,1,25,1,Meeting Booked
+528,EMEA,IT Services,Mid,Email,9,1,0,27,0,Contacted
+529,GCC,Finance,Small,Email,3,1,0,11,0,Contacted
+530,US,Retail,Mid,Linkedin,8,0,1,17,0,Engaged
+531,US,Retail,Small,Email,8,0,1,5,0,Engaged
+532,APAC,Finance,Mid,Linkedin,3,1,1,7,1,Meeting Booked
+533,APAC,Retail,Enterprise,Linkedin,4,0,0,19,1,Meeting Booked
+534,UK,IT Services,Small,Email,2,0,0,25,0,Prospect
+535,US,IT Services,Small,Linkedin,4,1,0,24,0,Contacted
+536,APAC,Finance,Mid,Email,9,1,1,29,0,Engaged
+537,US,Healthcare,Enterprise,Email,2,0,0,15,0,Prospect
+538,GCC,SaaS,Mid,Email,3,1,0,3,1,Meeting Booked
+539,UK,Healthcare,Small,Email,4,1,1,15,1,Meeting Booked
+540,GCC,Retail,Mid,Email,5,0,0,5,0,Prospect
+541,APAC,SaaS,Small,Email,1,0,0,23,0,Prospect
+542,UK,Finance,Mid,Email,7,0,0,12,0,Prospect
+543,GCC,Finance,Enterprise,Email,7,1,0,20,1,Meeting Booked
+544,US,SaaS,Mid,Linkedin,9,1,0,5,0,Contacted
+545,UK,IT Services,Enterprise,Linkedin,4,0,0,3,0,Prospect
+546,EMEA,SaaS,Small,Email,6,1,0,9,0,Contacted
+547,GCC,Retail,Mid,Email,2,0,0,26,0,Prospect
+548,US,IT Services,Enterprise,Linkedin,4,0,0,9,0,Prospect
+549,UK,Finance,Small,Email,2,0,0,7,0,Prospect
+550,US,SaaS,Enterprise,Linkedin,5,0,1,26,1,Meeting Booked
+551,UK,Healthcare,Small,Email,7,1,0,2,0,Contacted
+552,US,Healthcare,Mid,Email,1,0,0,23,0,Prospect
+553,UK,Retail,Enterprise,Email,7,1,1,23,1,Meeting Booked
+554,UK,Healthcare,Mid,Email,6,0,0,27,0,Prospect
+555,US,SaaS,Small,Linkedin,6,0,1,21,0,Engaged
+556,EMEA,SaaS,Mid,Email,8,1,1,16,1,Meeting Booked
+557,GCC,Healthcare,Mid,Linkedin,8,0,0,9,0,Prospect
+558,GCC,SaaS,Enterprise,Linkedin,6,0,1,13,1,Meeting Booked
+559,US,Retail,Mid,Email,3,0,0,28,0,Prospect
+560,UK,IT Services,Small,Linkedin,5,1,0,27,0,Contacted
+561,US,Retail,Mid,Email,2,0,0,19,0,Prospect
+562,GCC,Retail,Mid,Email,5,0,0,20,1,Meeting Booked
+563,GCC,SaaS,Mid,Linkedin,9,0,1,17,1,Meeting Booked
+564,GCC,IT Services,Mid,Email,1,0,0,6,1,Meeting Booked
+565,EMEA,SaaS,Enterprise,Email,5,1,0,4,0,Contacted
+566,UK,Finance,Mid,Email,6,0,0,1,0,Prospect
+567,EMEA,SaaS,Mid,Email,7,0,0,18,0,Prospect
+568,EMEA,SaaS,Small,Linkedin,9,0,0,19,0,Prospect
+569,APAC,SaaS,Small,Linkedin,6,0,0,9,0,Prospect
+570,EMEA,IT Services,Small,Linkedin,5,1,1,13,1,Meeting Booked
+571,UK,SaaS,Small,Linkedin,7,0,0,8,0,Prospect
+572,US,IT Services,Mid,Email,1,1,1,23,1,Meeting Booked
+573,EMEA,Healthcare,Mid,Email,5,0,0,13,0,Prospect
+574,UK,Finance,Mid,Email,2,0,1,15,1,Meeting Booked
+575,US,IT Services,Enterprise,Email,4,1,0,11,1,Meeting Booked
+576,APAC,Healthcare,Enterprise,Email,7,0,0,12,0,Prospect
+577,GCC,IT Services,Enterprise,Linkedin,5,1,0,14,1,Meeting Booked
+578,APAC,IT Services,Mid,Email,6,1,1,4,0,Engaged
+579,UK,Finance,Mid,Email,2,0,0,1,0,Prospect
+580,EMEA,Retail,Mid,Email,3,0,1,24,0,Engaged
+581,UK,Retail,Small,Linkedin,7,1,0,4,0,Contacted
+582,APAC,IT Services,Small,Linkedin,2,0,0,19,0,Prospect
+583,UK,SaaS,Enterprise,Email,6,0,0,9,0,Prospect
+584,EMEA,Healthcare,Enterprise,Email,5,0,1,10,0,Engaged
+585,UK,SaaS,Small,Linkedin,1,0,0,4,1,Meeting Booked
+586,GCC,SaaS,Mid,Email,4,1,1,20,1,Meeting Booked
+587,GCC,IT Services,Enterprise,Email,2,0,1,9,1,Meeting Booked
+588,GCC,IT Services,Small,Linkedin,4,0,0,13,0,Prospect
+589,GCC,IT Services,Small,Linkedin,1,0,0,12,0,Prospect
+590,GCC,IT Services,Enterprise,Email,2,0,0,11,1,Meeting Booked
+591,GCC,Retail,Mid,Linkedin,8,0,0,12,0,Prospect
+592,UK,IT Services,Small,Linkedin,6,1,1,18,1,Meeting Booked
+593,GCC,Retail,Mid,Email,2,0,0,12,0,Prospect
+594,EMEA,Retail,Enterprise,Linkedin,6,1,0,16,1,Meeting Booked
+595,US,IT Services,Mid,Linkedin,9,1,1,5,1,Meeting Booked
+596,UK,Finance,Small,Linkedin,7,0,0,20,0,Prospect
+597,US,Healthcare,Small,Linkedin,9,0,0,25,0,Prospect
+598,GCC,SaaS,Mid,Email,5,0,0,12,0,Prospect
+599,GCC,Retail,Mid,Email,7,0,0,21,1,Meeting Booked
+600,GCC,Healthcare,Mid,Email,7,1,0,25,0,Contacted
+601,GCC,Finance,Small,Email,3,1,1,11,1,Meeting Booked
+602,EMEA,SaaS,Enterprise,Email,7,0,0,9,0,Prospect
+603,GCC,SaaS,Small,Linkedin,1,0,0,18,1,Meeting Booked
+604,GCC,Retail,Small,Linkedin,9,1,0,25,0,Contacted
+605,GCC,IT Services,Small,Linkedin,6,1,0,3,0,Contacted
+606,UK,Finance,Small,Linkedin,5,0,0,20,0,Prospect
+607,GCC,Retail,Mid,Linkedin,7,0,1,17,0,Engaged
+608,EMEA,Finance,Mid,Email,5,0,0,14,0,Prospect
+609,UK,IT Services,Small,Email,5,1,0,1,1,Meeting Booked
+610,US,IT Services,Mid,Email,7,0,0,17,0,Prospect
+611,GCC,Retail,Small,Linkedin,7,0,0,25,0,Prospect
+612,US,IT Services,Mid,Email,3,0,0,27,1,Meeting Booked
+613,UK,Healthcare,Enterprise,Linkedin,3,0,0,8,0,Prospect
+614,GCC,SaaS,Small,Email,3,0,0,5,0,Prospect
+615,US,Retail,Mid,Linkedin,6,1,0,5,0,Contacted
+616,APAC,Finance,Small,Linkedin,6,0,0,9,0,Prospect
+617,GCC,Healthcare,Small,Linkedin,3,0,0,3,0,Prospect
+618,EMEA,Retail,Small,Linkedin,3,0,1,19,1,Meeting Booked
+619,US,IT Services,Mid,Linkedin,8,0,0,23,1,Meeting Booked
+620,US,IT Services,Mid,Linkedin,8,0,0,9,0,Prospect
+621,GCC,IT Services,Small,Linkedin,7,0,0,22,0,Prospect
+622,GCC,IT Services,Enterprise,Linkedin,4,0,0,18,0,Prospect
+623,EMEA,Finance,Mid,Linkedin,4,0,0,16,0,Prospect
+624,UK,Healthcare,Enterprise,Email,3,0,0,1,0,Prospect
+625,UK,SaaS,Mid,Email,5,0,0,2,0,Prospect
+626,EMEA,Finance,Mid,Email,3,1,0,14,1,Meeting Booked
+627,UK,Finance,Small,Email,8,1,0,14,0,Contacted
+628,US,SaaS,Small,Email,7,0,0,1,0,Prospect
+629,GCC,SaaS,Enterprise,Linkedin,3,0,0,26,0,Prospect
+630,EMEA,IT Services,Small,Linkedin,9,1,0,26,0,Contacted
+631,US,Finance,Enterprise,Linkedin,5,0,0,25,1,Meeting Booked
+632,US,Retail,Mid,Email,9,1,0,16,0,Contacted
+633,UK,SaaS,Small,Email,7,1,0,15,0,Contacted
+634,UK,SaaS,Small,Email,7,0,0,26,0,Prospect
+635,GCC,Healthcare,Small,Email,6,0,1,15,0,Engaged
+636,EMEA,Retail,Enterprise,Email,2,1,0,12,1,Meeting Booked
+637,UK,Retail,Mid,Email,9,0,0,16,0,Prospect
+638,GCC,SaaS,Small,Linkedin,6,0,0,14,1,Meeting Booked
+639,EMEA,IT Services,Small,Linkedin,8,0,1,29,1,Meeting Booked
+640,EMEA,Healthcare,Small,Email,1,0,0,24,0,Prospect
+641,GCC,Retail,Mid,Email,5,1,0,15,1,Meeting Booked
+642,EMEA,SaaS,Small,Email,1,1,0,23,1,Meeting Booked
+643,GCC,Retail,Enterprise,Email,8,1,0,15,0,Contacted
+644,EMEA,Healthcare,Small,Linkedin,8,0,0,19,0,Prospect
+645,GCC,Healthcare,Small,Email,1,0,0,8,0,Prospect
+646,US,Finance,Mid,Email,9,0,1,2,0,Engaged
+647,UK,SaaS,Mid,Email,2,0,1,2,0,Engaged
+648,US,Healthcare,Enterprise,Email,9,0,0,27,0,Prospect
+649,US,Finance,Mid,Linkedin,1,1,0,10,1,Meeting Booked
+650,UK,Finance,Small,Linkedin,9,1,1,3,0,Engaged
+651,GCC,Retail,Mid,Linkedin,4,0,0,23,0,Prospect
+652,UK,Retail,Small,Email,9,0,0,17,0,Prospect
+653,UK,Finance,Small,Email,7,0,0,8,0,Prospect
+654,US,Retail,Enterprise,Email,6,0,0,28,0,Prospect
+655,EMEA,Healthcare,Mid,Linkedin,5,1,0,23,0,Contacted
+656,GCC,IT Services,Enterprise,Email,9,0,0,4,0,Prospect
+657,EMEA,Healthcare,Mid,Email,2,1,0,14,0,Contacted
+658,EMEA,Finance,Mid,Linkedin,2,0,0,21,0,Prospect
+659,UK,Finance,Small,Linkedin,9,0,0,10,0,Prospect
+660,UK,Healthcare,Small,Email,3,1,0,29,0,Contacted
+661,EMEA,Retail,Enterprise,Email,8,0,1,1,0,Engaged
+662,APAC,Retail,Small,Email,9,0,0,4,0,Prospect
+663,UK,Finance,Enterprise,Linkedin,8,0,0,1,0,Prospect
+664,GCC,SaaS,Mid,Email,4,0,1,17,1,Meeting Booked
+665,GCC,Retail,Small,Linkedin,1,1,1,26,1,Meeting Booked
+666,GCC,Healthcare,Mid,Email,4,0,0,17,0,Prospect
+667,GCC,Retail,Mid,Linkedin,9,1,0,7,1,Meeting Booked
+668,GCC,Healthcare,Small,Linkedin,2,0,0,23,0,Prospect
+669,GCC,Finance,Enterprise,Email,3,0,1,20,0,Engaged
+670,EMEA,Retail,Mid,Linkedin,8,1,1,15,1,Meeting Booked
+671,GCC,Healthcare,Small,Email,6,0,1,13,1,Meeting Booked
+672,US,Finance,Mid,Linkedin,8,0,0,28,0,Prospect
+673,GCC,SaaS,Enterprise,Linkedin,7,0,0,2,1,Meeting Booked
+674,UK,Healthcare,Small,Email,5,0,0,28,0,Prospect
+675,EMEA,SaaS,Enterprise,Linkedin,9,0,0,19,0,Prospect
+676,APAC,SaaS,Small,Linkedin,4,0,0,24,0,Prospect
+677,GCC,IT Services,Mid,Email,6,0,0,13,0,Prospect
+678,EMEA,Retail,Mid,Email,2,0,0,24,0,Prospect
+679,APAC,Healthcare,Small,Linkedin,2,1,0,11,0,Contacted
+680,US,SaaS,Small,Linkedin,2,0,0,27,0,Prospect
+681,US,IT Services,Mid,Email,7,1,0,22,1,Meeting Booked
+682,EMEA,Finance,Mid,Email,2,0,0,15,0,Prospect
+683,GCC,Healthcare,Mid,Email,2,0,0,10,0,Prospect
+684,US,SaaS,Small,Email,9,1,1,9,1,Meeting Booked
+685,APAC,Retail,Enterprise,Email,7,0,0,27,0,Prospect
+686,UK,IT Services,Mid,Linkedin,3,1,1,28,0,Engaged
+687,UK,SaaS,Enterprise,Email,3,0,0,9,0,Prospect
+688,EMEA,Retail,Small,Linkedin,7,0,0,20,0,Prospect
+689,US,SaaS,Mid,Email,5,0,0,28,1,Meeting Booked
+690,GCC,Healthcare,Mid,Email,6,0,0,1,0,Prospect
+691,EMEA,Healthcare,Small,Email,8,1,1,17,1,Meeting Booked
+692,EMEA,Healthcare,Mid,Email,9,0,0,12,0,Prospect
+693,UK,IT Services,Small,Linkedin,1,1,1,10,1,Meeting Booked
+694,GCC,Healthcare,Mid,Linkedin,3,1,0,5,1,Meeting Booked
+695,GCC,Retail,Mid,Linkedin,7,0,1,29,0,Engaged
+696,UK,SaaS,Small,Linkedin,6,0,0,18,0,Prospect
+697,EMEA,Finance,Mid,Linkedin,7,1,1,15,0,Engaged
+698,UK,Retail,Mid,Email,8,1,0,6,0,Contacted
+699,GCC,Retail,Small,Linkedin,6,0,0,7,0,Prospect
+700,UK,Healthcare,Enterprise,Linkedin,3,0,0,17,0,Prospect
+701,UK,IT Services,Enterprise,Email,2,0,1,6,1,Meeting Booked
+702,GCC,SaaS,Mid,Linkedin,7,1,0,8,0,Contacted
+703,EMEA,IT Services,Small,Email,1,0,0,12,0,Prospect
+704,GCC,SaaS,Mid,Email,3,1,1,21,1,Meeting Booked
+705,GCC,SaaS,Mid,Linkedin,4,0,0,14,1,Meeting Booked
+706,APAC,IT Services,Small,Email,1,0,0,12,0,Prospect
+707,EMEA,Retail,Mid,Email,5,0,0,23,0,Prospect
+708,US,SaaS,Mid,Linkedin,3,0,0,10,0,Prospect
+709,EMEA,IT Services,Mid,Linkedin,2,0,1,22,0,Engaged
+710,US,SaaS,Mid,Email,3,0,1,20,0,Engaged
+711,US,Finance,Mid,Linkedin,8,0,0,15,0,Prospect
+712,UK,Retail,Enterprise,Email,6,0,1,7,0,Engaged
+713,UK,Healthcare,Small,Email,7,0,0,26,0,Prospect
+714,EMEA,SaaS,Mid,Linkedin,6,1,0,9,0,Contacted
+715,EMEA,Finance,Enterprise,Linkedin,6,0,0,10,0,Prospect
+716,APAC,Healthcare,Mid,Email,3,0,0,10,0,Prospect
+717,US,Healthcare,Mid,Linkedin,8,0,0,16,0,Prospect
+718,APAC,SaaS,Mid,Linkedin,7,1,1,29,1,Meeting Booked
+719,GCC,IT Services,Mid,Email,7,0,1,7,1,Meeting Booked
+720,US,SaaS,Enterprise,Email,6,1,0,28,1,Meeting Booked
+721,APAC,Finance,Mid,Email,5,1,0,5,1,Meeting Booked
+722,GCC,Healthcare,Enterprise,Linkedin,8,0,0,23,0,Prospect
+723,GCC,SaaS,Small,Linkedin,5,0,1,3,0,Engaged
+724,US,IT Services,Small,Linkedin,9,1,1,18,0,Engaged
+725,UK,SaaS,Mid,Linkedin,9,0,0,11,0,Prospect
+726,US,Retail,Small,Linkedin,1,0,1,15,1,Meeting Booked
+727,GCC,IT Services,Small,Email,6,1,0,21,0,Contacted
+728,US,Finance,Small,Email,7,0,0,20,1,Meeting Booked
+729,GCC,Healthcare,Small,Email,3,1,0,5,0,Contacted
+730,GCC,SaaS,Small,Email,7,0,0,24,0,Prospect
+731,GCC,IT Services,Enterprise,Linkedin,7,1,0,12,1,Meeting Booked
+732,US,Retail,Small,Linkedin,2,0,0,4,0,Prospect
+733,US,IT Services,Mid,Email,7,0,0,15,1,Meeting Booked
+734,UK,Retail,Mid,Email,1,0,0,9,0,Prospect
+735,EMEA,Finance,Enterprise,Linkedin,5,1,0,7,1,Meeting Booked
+736,US,Healthcare,Small,Email,9,0,0,10,0,Prospect
+737,EMEA,Finance,Enterprise,Email,7,0,0,29,0,Prospect
+738,US,SaaS,Mid,Email,7,0,1,28,0,Engaged
+739,EMEA,IT Services,Mid,Email,2,0,0,23,0,Prospect
+740,EMEA,Retail,Mid,Linkedin,8,0,0,13,0,Prospect
+741,UK,Retail,Enterprise,Email,3,0,0,29,0,Prospect
+742,EMEA,IT Services,Small,Email,8,0,1,8,1,Meeting Booked
+743,US,IT Services,Mid,Email,3,0,1,12,1,Meeting Booked
+744,UK,SaaS,Mid,Linkedin,7,0,0,22,1,Meeting Booked
+745,GCC,Finance,Mid,Email,2,0,0,24,1,Meeting Booked
+746,US,Retail,Enterprise,Email,4,1,1,19,1,Meeting Booked
+747,EMEA,SaaS,Small,Email,6,0,0,26,0,Prospect
+748,UK,Finance,Enterprise,Email,9,0,0,26,0,Prospect
+749,APAC,SaaS,Small,Email,5,0,0,1,0,Prospect
+750,UK,Retail,Small,Linkedin,9,1,0,16,0,Contacted
+751,GCC,IT Services,Small,Email,5,1,0,22,0,Contacted
+752,APAC,IT Services,Small,Email,8,1,0,17,1,Meeting Booked
+753,UK,Finance,Mid,Linkedin,1,0,0,25,0,Prospect
+754,EMEA,Healthcare,Small,Email,7,0,1,18,1,Meeting Booked
+755,GCC,Finance,Small,Email,4,0,0,11,0,Prospect
+756,US,Healthcare,Enterprise,Email,5,0,1,18,1,Meeting Booked
+757,UK,SaaS,Enterprise,Linkedin,6,0,0,7,1,Meeting Booked
+758,UK,SaaS,Enterprise,Email,5,1,0,18,1,Meeting Booked
+759,US,Retail,Enterprise,Linkedin,1,1,0,26,1,Meeting Booked
+760,US,Healthcare,Mid,Linkedin,9,1,1,8,0,Engaged
+761,GCC,Retail,Small,Email,2,0,1,6,0,Engaged
+762,EMEA,IT Services,Small,Linkedin,9,1,0,7,0,Contacted
+763,GCC,Healthcare,Mid,Email,2,0,1,23,1,Meeting Booked
+764,US,Finance,Small,Email,9,0,0,22,0,Prospect
+765,GCC,IT Services,Mid,Linkedin,6,1,1,10,1,Meeting Booked
+766,UK,IT Services,Small,Linkedin,9,0,0,11,0,Prospect
+767,US,Finance,Small,Linkedin,6,0,1,25,1,Meeting Booked
+768,US,IT Services,Mid,Email,6,0,0,13,0,Prospect
+769,EMEA,Healthcare,Mid,Email,2,1,0,9,0,Contacted
+770,US,Retail,Mid,Linkedin,8,1,0,7,0,Contacted
+771,GCC,IT Services,Mid,Email,3,0,0,9,0,Prospect
+772,US,Healthcare,Small,Email,7,1,0,13,0,Contacted
+773,GCC,SaaS,Small,Email,5,0,0,26,0,Prospect
+774,EMEA,Healthcare,Enterprise,Email,3,0,0,3,0,Prospect
+775,US,Retail,Mid,Linkedin,1,1,0,3,0,Contacted
+776,GCC,Healthcare,Small,Email,8,1,0,1,0,Contacted
+777,GCC,Finance,Enterprise,Linkedin,3,1,0,21,1,Meeting Booked
+778,US,Retail,Small,Email,2,0,1,20,1,Meeting Booked
+779,US,SaaS,Mid,Linkedin,1,1,0,2,1,Meeting Booked
+780,UK,Finance,Small,Email,4,0,0,25,1,Meeting Booked
+781,US,Healthcare,Mid,Email,8,1,0,3,1,Meeting Booked
+782,UK,Retail,Mid,Email,3,0,0,15,0,Prospect
+783,EMEA,SaaS,Small,Email,1,1,0,24,0,Contacted
+784,EMEA,Finance,Enterprise,Email,4,0,0,6,0,Prospect
+785,GCC,SaaS,Mid,Linkedin,9,0,0,13,0,Prospect
+786,APAC,Healthcare,Small,Linkedin,1,0,1,21,1,Meeting Booked
+787,UK,SaaS,Small,Email,2,0,0,1,0,Prospect
+788,EMEA,IT Services,Small,Email,9,0,0,20,1,Meeting Booked
+789,UK,Finance,Small,Email,2,1,0,19,0,Contacted
+790,APAC,SaaS,Mid,Email,3,0,0,1,1,Meeting Booked
+791,GCC,Healthcare,Enterprise,Linkedin,7,0,1,28,1,Meeting Booked
+792,UK,Healthcare,Mid,Linkedin,3,0,0,21,0,Prospect
+793,UK,SaaS,Small,Email,9,0,0,22,0,Prospect
+794,UK,Healthcare,Small,Email,6,0,0,2,0,Prospect
+795,GCC,Retail,Small,Email,3,0,0,15,0,Prospect
+796,US,Retail,Mid,Linkedin,9,0,0,14,0,Prospect
+797,APAC,Retail,Mid,Email,1,0,1,19,0,Engaged
+798,UK,IT Services,Small,Linkedin,3,0,1,11,0,Engaged
+799,US,SaaS,Mid,Linkedin,1,0,1,15,1,Meeting Booked
+800,APAC,IT Services,Enterprise,Email,2,0,1,6,1,Meeting Booked
+801,US,Healthcare,Mid,Linkedin,8,0,0,20,1,Meeting Booked
+802,GCC,IT Services,Enterprise,Email,7,0,0,9,0,Prospect
+803,UK,Healthcare,Mid,Linkedin,2,1,1,5,0,Engaged
+804,UK,Healthcare,Mid,Email,2,1,1,20,0,Engaged
+805,EMEA,Finance,Mid,Email,9,1,1,2,1,Meeting Booked
+806,US,Retail,Mid,Linkedin,6,0,0,6,1,Meeting Booked
+807,APAC,Healthcare,Small,Linkedin,5,1,0,26,0,Contacted
+808,APAC,Finance,Small,Linkedin,6,1,1,18,1,Meeting Booked
+809,UK,Retail,Small,Email,9,1,0,28,1,Meeting Booked
+810,GCC,Healthcare,Mid,Linkedin,7,0,1,29,1,Meeting Booked
+811,APAC,Healthcare,Small,Email,9,0,0,23,0,Prospect
+812,US,IT Services,Enterprise,Linkedin,4,1,0,19,0,Contacted
+813,GCC,IT Services,Mid,Email,2,0,0,9,0,Prospect
+814,APAC,Retail,Mid,Linkedin,8,0,1,27,1,Meeting Booked
+815,US,Healthcare,Small,Linkedin,4,0,0,21,0,Prospect
+816,UK,SaaS,Enterprise,Linkedin,9,0,0,24,1,Meeting Booked
+817,UK,IT Services,Enterprise,Email,4,0,1,27,0,Engaged
+818,EMEA,Retail,Mid,Email,8,0,0,6,0,Prospect
+819,GCC,Healthcare,Small,Linkedin,9,0,1,14,1,Meeting Booked
+820,EMEA,Healthcare,Mid,Email,9,0,0,28,0,Prospect
+821,US,SaaS,Small,Linkedin,4,0,1,26,1,Meeting Booked
+822,GCC,Retail,Small,Email,1,0,0,24,0,Prospect
+823,EMEA,Healthcare,Mid,Email,3,0,1,29,0,Engaged
+824,EMEA,IT Services,Mid,Linkedin,9,1,1,13,1,Meeting Booked
+825,UK,SaaS,Mid,Linkedin,4,1,0,11,1,Meeting Booked
+826,APAC,Retail,Enterprise,Email,5,0,0,12,0,Prospect
+827,EMEA,SaaS,Mid,Email,7,0,0,19,0,Prospect
+828,EMEA,IT Services,Mid,Email,5,0,0,19,0,Prospect
+829,US,Retail,Small,Linkedin,4,1,1,21,1,Meeting Booked
+830,UK,SaaS,Enterprise,Email,2,0,0,27,0,Prospect
+831,GCC,Finance,Small,Linkedin,2,0,0,26,0,Prospect
+832,UK,IT Services,Enterprise,Linkedin,4,0,0,19,1,Meeting Booked
+833,GCC,IT Services,Enterprise,Email,9,0,1,24,0,Engaged
+834,GCC,IT Services,Small,Linkedin,8,1,1,26,1,Meeting Booked
+835,UK,Finance,Mid,Email,3,1,0,13,0,Contacted
+836,EMEA,Finance,Enterprise,Email,9,0,0,28,0,Prospect
+837,APAC,Healthcare,Mid,Linkedin,5,0,0,14,0,Prospect
+838,EMEA,SaaS,Enterprise,Email,3,0,0,24,0,Prospect
+839,UK,Healthcare,Enterprise,Email,5,0,0,18,0,Prospect
+840,UK,SaaS,Mid,Email,4,0,0,12,0,Prospect
+841,GCC,Finance,Small,Email,8,0,0,4,0,Prospect
+842,US,Finance,Enterprise,Email,5,0,0,10,0,Prospect
+843,GCC,Healthcare,Mid,Linkedin,8,0,0,29,0,Prospect
+844,APAC,Retail,Small,Linkedin,9,1,0,17,0,Contacted
+845,GCC,Healthcare,Small,Linkedin,4,0,0,4,1,Meeting Booked
+846,EMEA,SaaS,Mid,Email,7,1,1,12,0,Engaged
+847,GCC,Healthcare,Enterprise,Email,2,1,0,13,0,Contacted
+848,APAC,IT Services,Enterprise,Email,6,0,0,29,0,Prospect
+849,UK,SaaS,Mid,Email,8,1,0,27,0,Contacted
+850,UK,SaaS,Small,Email,7,0,1,29,1,Meeting Booked
+851,GCC,Retail,Small,Email,7,0,1,4,1,Meeting Booked
+852,US,Finance,Enterprise,Email,8,0,0,10,0,Prospect
+853,GCC,SaaS,Small,Email,7,1,0,25,0,Contacted
+854,US,Finance,Small,Linkedin,5,0,0,3,0,Prospect
+855,GCC,Healthcare,Small,Linkedin,7,0,0,15,0,Prospect
+856,GCC,IT Services,Mid,Linkedin,3,1,0,2,1,Meeting Booked
+857,GCC,Retail,Enterprise,Linkedin,5,0,0,25,0,Prospect
+858,UK,Finance,Small,Linkedin,7,1,0,25,0,Contacted
+859,UK,SaaS,Mid,Email,9,1,0,17,0,Contacted
+860,GCC,Finance,Mid,Email,2,1,0,6,0,Contacted
+861,US,SaaS,Enterprise,Linkedin,4,1,0,26,0,Contacted
+862,UK,Finance,Small,Linkedin,7,1,0,8,0,Contacted
+863,UK,SaaS,Mid,Linkedin,1,0,0,3,0,Prospect
+864,EMEA,Healthcare,Small,Linkedin,2,1,0,27,0,Contacted
+865,EMEA,SaaS,Enterprise,Email,9,0,1,25,1,Meeting Booked
+866,UK,SaaS,Mid,Linkedin,7,0,0,18,0,Prospect
+867,GCC,IT Services,Small,Linkedin,7,0,0,22,0,Prospect
+868,GCC,SaaS,Mid,Email,6,1,1,1,1,Meeting Booked
+869,US,IT Services,Mid,Linkedin,3,1,0,29,0,Contacted
+870,APAC,Retail,Small,Email,3,1,0,16,0,Contacted
+871,EMEA,IT Services,Enterprise,Linkedin,2,0,0,7,0,Prospect
+872,EMEA,Healthcare,Small,Linkedin,6,0,1,3,1,Meeting Booked
+873,UK,IT Services,Mid,Email,4,0,1,23,0,Engaged
+874,EMEA,Retail,Mid,Linkedin,5,1,0,4,1,Meeting Booked
+875,GCC,Healthcare,Mid,Email,3,1,0,9,0,Contacted
+876,GCC,Finance,Small,Linkedin,6,0,0,5,1,Meeting Booked
+877,US,Finance,Enterprise,Email,3,0,0,19,0,Prospect
+878,US,IT Services,Mid,Linkedin,8,0,0,15,1,Meeting Booked
+879,GCC,IT Services,Mid,Email,9,0,0,8,0,Prospect
+880,GCC,Retail,Mid,Linkedin,4,1,0,6,0,Contacted
+881,GCC,Retail,Mid,Email,9,0,1,18,1,Meeting Booked
+882,US,SaaS,Small,Linkedin,7,0,0,19,0,Prospect
+883,GCC,Retail,Small,Linkedin,3,0,0,24,0,Prospect
+884,GCC,SaaS,Enterprise,Linkedin,7,0,0,15,1,Meeting Booked
+885,US,Healthcare,Small,Linkedin,1,1,1,26,1,Meeting Booked
+886,GCC,IT Services,Mid,Linkedin,3,0,0,7,1,Meeting Booked
+887,US,Healthcare,Enterprise,Email,6,0,0,10,1,Meeting Booked
+888,GCC,Retail,Small,Email,4,0,0,6,0,Prospect
+889,GCC,Healthcare,Mid,Email,7,1,0,14,0,Contacted
+890,GCC,Healthcare,Mid,Linkedin,3,1,1,17,1,Meeting Booked
+891,US,Healthcare,Mid,Linkedin,1,1,0,9,0,Contacted
+892,US,Retail,Small,Email,9,0,0,19,0,Prospect
+893,US,Healthcare,Small,Linkedin,6,0,0,5,0,Prospect
+894,EMEA,SaaS,Mid,Linkedin,8,0,0,23,0,Prospect
+895,US,Retail,Enterprise,Linkedin,3,1,1,7,1,Meeting Booked
+896,GCC,Healthcare,Mid,Email,8,0,0,19,1,Meeting Booked
+897,EMEA,Retail,Mid,Email,2,0,0,20,0,Prospect
+898,US,Finance,Small,Email,4,1,0,26,0,Contacted
+899,GCC,SaaS,Mid,Linkedin,3,1,0,7,1,Meeting Booked
+900,GCC,Healthcare,Small,Email,1,0,1,24,1,Meeting Booked
+901,GCC,Finance,Enterprise,Email,7,0,0,2,0,Prospect
+902,GCC,Finance,Enterprise,Linkedin,2,0,1,25,1,Meeting Booked
+903,GCC,Retail,Mid,Linkedin,4,1,1,23,1,Meeting Booked
+904,UK,Finance,Enterprise,Linkedin,9,1,0,16,0,Contacted
+905,EMEA,SaaS,Small,Email,6,0,0,13,0,Prospect
+906,US,SaaS,Mid,Email,8,0,0,8,0,Prospect
+907,US,IT Services,Small,Linkedin,2,1,0,6,1,Meeting Booked
+908,EMEA,SaaS,Enterprise,Email,7,1,0,6,0,Contacted
+909,EMEA,Finance,Small,Email,6,0,0,9,0,Prospect
+910,EMEA,SaaS,Mid,Email,9,0,0,4,0,Prospect
+911,UK,Retail,Enterprise,Email,7,0,0,27,0,Prospect
+912,EMEA,IT Services,Small,Email,1,0,0,11,0,Prospect
+913,UK,Finance,Small,Email,8,1,0,5,0,Contacted
+914,EMEA,IT Services,Mid,Email,3,1,0,25,1,Meeting Booked
+915,UK,Finance,Mid,Email,2,1,0,17,0,Contacted
+916,EMEA,Retail,Small,Linkedin,3,0,1,20,0,Engaged
+917,EMEA,IT Services,Small,Email,6,1,0,7,0,Contacted
+918,APAC,Healthcare,Small,Linkedin,3,0,1,27,0,Engaged
+919,US,Finance,Enterprise,Email,5,0,0,15,0,Prospect
+920,GCC,Healthcare,Mid,Email,6,0,0,25,0,Prospect
+921,US,IT Services,Small,Linkedin,8,0,0,15,0,Prospect
+922,UK,Healthcare,Small,Email,7,1,0,14,0,Contacted
+923,US,Healthcare,Small,Email,8,0,0,13,0,Prospect
+924,US,IT Services,Small,Email,3,0,0,11,0,Prospect
+925,EMEA,Retail,Mid,Linkedin,4,0,0,28,0,Prospect
+926,GCC,Healthcare,Small,Email,6,0,0,13,1,Meeting Booked
+927,EMEA,Healthcare,Small,Email,7,0,0,26,1,Meeting Booked
+928,UK,Retail,Mid,Linkedin,9,0,1,22,1,Meeting Booked
+929,UK,Healthcare,Small,Email,1,1,0,28,0,Contacted
+930,EMEA,Healthcare,Mid,Email,8,0,0,24,0,Prospect
+931,GCC,Healthcare,Mid,Email,8,0,0,29,0,Prospect
+932,US,SaaS,Mid,Linkedin,6,0,1,9,1,Meeting Booked
+933,APAC,Retail,Mid,Email,4,1,1,10,0,Engaged
+934,UK,Healthcare,Mid,Email,3,0,0,4,1,Meeting Booked
+935,GCC,Retail,Enterprise,Email,3,0,1,17,1,Meeting Booked
+936,EMEA,Finance,Mid,Linkedin,6,0,0,14,0,Prospect
+937,GCC,Finance,Mid,Email,8,0,0,24,0,Prospect
+938,APAC,Healthcare,Enterprise,Linkedin,7,0,1,18,1,Meeting Booked
+939,GCC,Retail,Mid,Email,1,1,1,11,1,Meeting Booked
+940,UK,Retail,Small,Linkedin,6,0,0,16,0,Prospect
+941,EMEA,Retail,Small,Linkedin,7,0,1,1,1,Meeting Booked
+942,UK,SaaS,Small,Email,7,1,0,29,0,Contacted
+943,US,Finance,Enterprise,Email,9,1,1,7,0,Engaged
+944,US,Retail,Mid,Email,5,0,0,28,0,Prospect
+945,GCC,Retail,Enterprise,Email,1,0,0,10,1,Meeting Booked
+946,GCC,SaaS,Mid,Linkedin,2,0,0,9,0,Prospect
+947,GCC,SaaS,Mid,Email,4,0,0,27,1,Meeting Booked
+948,APAC,Retail,Small,Email,5,1,0,28,0,Contacted
+949,US,IT Services,Mid,Email,9,1,0,28,0,Contacted
+950,UK,Retail,Mid,Linkedin,1,1,0,25,0,Contacted
+951,UK,Retail,Enterprise,Email,3,0,0,3,1,Meeting Booked
+952,US,SaaS,Small,Email,5,0,0,22,0,Prospect
+953,GCC,SaaS,Mid,Email,3,0,0,23,0,Prospect
+954,APAC,Retail,Mid,Linkedin,4,1,0,14,0,Contacted
+955,EMEA,Retail,Mid,Linkedin,3,0,0,26,0,Prospect
+956,EMEA,Retail,Mid,Email,4,0,1,25,1,Meeting Booked
+957,UK,SaaS,Mid,Email,1,1,1,15,1,Meeting Booked
+958,GCC,Retail,Small,Email,8,1,0,2,0,Contacted
+959,GCC,Retail,Mid,Email,4,1,0,24,1,Meeting Booked
+960,US,Healthcare,Mid,Linkedin,7,0,0,14,0,Prospect
+961,GCC,IT Services,Enterprise,Linkedin,2,1,0,16,1,Meeting Booked
+962,UK,Finance,Enterprise,Email,2,1,0,7,0,Contacted
+963,GCC,IT Services,Small,Linkedin,6,0,1,4,1,Meeting Booked
+964,EMEA,Healthcare,Small,Email,2,0,0,18,0,Prospect
+965,EMEA,Finance,Enterprise,Linkedin,6,0,0,24,0,Prospect
+966,EMEA,Retail,Mid,Linkedin,2,1,0,27,0,Contacted
+967,US,Healthcare,Enterprise,Email,4,0,1,5,1,Meeting Booked
+968,EMEA,Retail,Small,Linkedin,7,0,0,6,0,Prospect
+969,UK,SaaS,Mid,Email,8,0,0,27,0,Prospect
+970,UK,Healthcare,Enterprise,Email,3,1,0,7,1,Meeting Booked
+971,US,SaaS,Enterprise,Email,9,0,0,15,0,Prospect
+972,APAC,Healthcare,Small,Email,2,0,0,26,0,Prospect
+973,US,Healthcare,Mid,Linkedin,8,0,0,1,1,Meeting Booked
+974,GCC,SaaS,Mid,Linkedin,8,1,1,24,1,Meeting Booked
+975,GCC,Finance,Small,Linkedin,4,0,0,4,0,Prospect
+976,EMEA,IT Services,Mid,Linkedin,1,0,0,29,1,Meeting Booked
+977,UK,Retail,Mid,Linkedin,1,1,0,25,1,Meeting Booked
+978,GCC,Healthcare,Enterprise,Email,2,0,0,1,0,Prospect
+979,UK,Retail,Mid,Email,9,1,0,11,0,Contacted
+980,UK,SaaS,Small,Email,2,0,0,18,0,Prospect
+981,EMEA,Retail,Small,Linkedin,2,0,0,14,0,Prospect
+982,US,SaaS,Mid,Linkedin,6,0,1,22,1,Meeting Booked
+983,GCC,Retail,Small,Email,7,0,0,11,0,Prospect
+984,GCC,IT Services,Mid,Linkedin,7,1,0,10,0,Contacted
+985,US,IT Services,Small,Linkedin,9,0,1,27,1,Meeting Booked
+986,UK,IT Services,Enterprise,Email,6,1,0,17,1,Meeting Booked
+987,US,IT Services,Enterprise,Email,8,0,0,4,0,Prospect
+988,EMEA,IT Services,Mid,Email,6,0,0,24,0,Prospect
+989,GCC,IT Services,Enterprise,Email,2,0,0,15,0,Prospect
+990,US,SaaS,Mid,Email,1,1,1,26,1,Meeting Booked
+991,US,Healthcare,Mid,Email,5,0,0,16,0,Prospect
+992,US,Retail,Small,Email,9,0,0,21,0,Prospect
+993,EMEA,IT Services,Mid,Email,8,0,0,13,0,Prospect
+994,UK,SaaS,Mid,Linkedin,4,0,0,9,0,Prospect
+995,EMEA,SaaS,Enterprise,Email,5,0,0,11,0,Prospect
+996,GCC,SaaS,Mid,Linkedin,5,1,0,11,0,Contacted
+997,APAC,Healthcare,Enterprise,Email,6,0,1,6,1,Meeting Booked
+998,GCC,Retail,Mid,Email,3,1,1,1,1,Meeting Booked
+999,APAC,Healthcare,Small,Linkedin,5,0,0,22,0,Prospect
+1000,EMEA,Finance,Enterprise,Email,2,1,0,6,0,Contacted
