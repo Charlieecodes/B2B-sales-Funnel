@@ -26,9 +26,9 @@ Summary
 
 **Stats & Models used:
 
-  -shapiro - find normal distribution and p-value
+  -Shapiro - find normal distribution and p-value
 
-  -chi2 - segmenting categorical vs categorical data and p-value to identify ho
+  -Chi2 - segmenting categorical vs categorical data and p-value to identify ho
 
   -Logistic Regression — simple and explainable
 
