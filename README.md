@@ -7,6 +7,8 @@ Analysed the sales funnel — found where leads drop off
 Identified which regions, channels, and industries convert best
 Built two ML models to predict which leads will book a meeting
 Scored every lead as High / Medium / Low priority
+
+
 Key findings:
 
 GCC, US and APAC have the highest meeting conversion rates
@@ -15,6 +17,8 @@ IT Services and SaaS respond best to outreach
 Responding to outreach is the single strongest predictor of booking a meeting
 
 Stats & Models used:
+
+
 shapiro - find normal distribution and p-value
 chi2 - segmenting categorical vs categorical data and p-value to identify ho
 
